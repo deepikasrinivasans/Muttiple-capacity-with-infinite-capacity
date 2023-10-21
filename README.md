@@ -15,9 +15,10 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Experiment :
 ![Deeps_5a](https://github.com/deepikasrinivasans/Muttiple-capacity-with-infinite-capacity/assets/119393935/13c63dbb-a295-4ba7-8c8a-aabc653bf277)
+
 ![Deeps_5b](https://github.com/deepikasrinivasans/Muttiple-capacity-with-infinite-capacity/assets/119393935/2c5cd0d3-92d1-41d9-8173-caa4f5e7ea35)
 
-## :
+## Program :
 ```
 Developed by : Deepika S
 Register number : 212222230028
